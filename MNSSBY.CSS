@@ -1,0 +1,148 @@
+body{
+    padding-top: 0px;
+    background-color: #c5cae9;
+    /* width: 100%; */
+    height: 100%;
+}
+
+.head{
+    /* background-color: #fff; */
+    padding-left: 20px;
+    background-color: #c5cae9;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+img{
+    padding: 30px;
+    padding-left: 50px;
+    justify-content: space-between;
+}
+
+.img1{
+    /* border: 2px solid white; */
+    box-shadow: 1px 1px 1px 1px;
+    margin-right: 10px;
+
+
+}
+.img2{
+    box-shadow: 1px 1px 1px 1px;
+    margin-right: 10px;
+    margin-top: 0px;
+
+}
+.img3{
+    box-shadow: 1px 1px 1px 1px;
+
+}
+#button{
+    background-color: yellow;
+    font: xx-large;
+    margin-right: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    text-align: center;
+    padding-left:0px;
+    margin-top: 0px;
+    
+}
+nav #a{
+    background-color: #3e4095;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    padding-left: 120px;
+    padding-right: 140px;
+    margin-top: 22px;
+}
+.a:hover{
+  /* background-color: #3A3D8B; */
+  background-color: blue;
+}
+
+.marquee1{
+    color: rgb(0, 128, 0);
+    font-size: medium;
+    padding-top: 15px;
+}
+.marquee2{
+    color: rgb(0, 128, 0);
+    font-size: medium;
+}
+
+#alink{
+    font-size: x-large;
+    padding-left: 190px;
+    padding-top: 30px;
+}
+#alink1{
+    color: rgb(0, 0, 255);
+    font-size: medium;
+    font-weight: bold;
+    
+}
+#alink2{
+    margin-left: 15px;
+    color: rgb(128, 128, 128);
+    font-size: medium;
+    font-weight: bold;
+}
+
+#main-section-img{
+    margin-left: 30px;
+}
+
+#main-section{
+    display: flex;
+}
+form{
+    margin-top: 30px;
+    margin-left: 20px;
+    background-color: #3e4095;
+    width: 250px;
+    height: 400px;
+    text-align: center;
+    padding-top: 40px;
+}
+input{
+    width: 200px;
+    height: 20px;
+    margin-bottom: 10px;
+}
+
+button{
+    background-color: yellow;
+    color: black;
+    font-size: large;
+}
+label{
+    color: white;
+}
+
+h4{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: yellow;
+    color: black;
+    height: 20px;
+    width: 230px;
+    margin-left: 10px;
+    font-size: 14px;
+    font-weight: 400;
+}
+h3{
+    color: white;
+}
+
+span{
+    /* margin-right:40px; */
+    padding-right: 50px;
+}
+ 
+.admin{
+    padding-left: 80px;
+}
